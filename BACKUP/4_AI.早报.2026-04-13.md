@@ -34,7 +34,7 @@
 ---
 
 ## [Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试](https://x.com/GoogleDeepMind/status/2043710119347707926) `#2`
-> Gemini 3.1 Flash Live在Sierra平台的实时语音代理基准测试中排名第一，展示了Google在语音AI领域的技术实力。
+> 你好呀，Gemini 3.1 Flash Live在Sierra平台的实时语音代理基准测试中排名第一，展示了Google在语音AI领域的技术实力。
 
 Google DeepMind宣布Gemini 3.1 Flash Live在Sierra平台的τ-Voice Leaderboard实时语音代理基准测试中排名第一。该模型具备思考能力，适合构建语音代理应用。Sierra是语音代理领域的重要评测平台，此次登顶表明Gemini在实时语音交互方面的技术优势。
 
