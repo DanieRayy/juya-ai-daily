@@ -19,6 +19,7 @@
 
 
 ## 最近更新
+- [2026-03-01日报](https://github.com/DanieRayy/juya-ai-daily/issues/1)--2026-04-15
 
 ---
 
