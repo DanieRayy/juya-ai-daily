@@ -23,7 +23,7 @@ MD_HEAD = """# 橘鸦AI早报
 
 > 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅。资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
 
-正式订阅地址：https://imjuya.github.io/juya-ai-daily/rss.xml
+正式订阅地址：{feed_subscribe_url}
 
 ## Links
 
@@ -31,7 +31,7 @@ MD_HEAD = """# 橘鸦AI早报
 | :--- | :--- |
 | RSS Feed | [Subscribe]({feed_subscribe_url}) |
 | Markdown 备份 | [BACKUP](https://github.com/{repo_name}/tree/{branch_name}/BACKUP) |
-| GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
+| GitHub Pages | [View]({pages_base_url}/) |
 | 第三方多功能阅读器（@ViggoZ 制作） | [juya-daily](https://viggoz.github.io/juya-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
 | AI早报 视频版-YouTube | [YouTube](https://www.youtube.com/@imjuya) |
@@ -250,12 +250,14 @@ def add_md_recent(repo, md, me, limit=5):
 
 
 def add_md_header(md, repo_name, feed_filename, branch_name):
+    pages_base_url = get_pages_base_url(repo_name)
     with open(md, "w", encoding="utf-8") as md:
         md.write(
             MD_HEAD.format(
                 repo_name=repo_name,
                 branch_name=branch_name,
                 feed_subscribe_url=get_pages_feed_url(repo_name, feed_filename),
+                pages_base_url=pages_base_url,
             )
         )
         md.write("\n")
