@@ -19,6 +19,7 @@
 
 
 ## 最近更新
+- [AI 早报 2026-04-144](https://github.com/DanieRayy/juya-ai-daily/issues/5)--2026-04-15
 - [AI 早报 2026-04-13](https://github.com/DanieRayy/juya-ai-daily/issues/4)--2026-04-15
 - [2026-04-16日报](https://github.com/DanieRayy/juya-ai-daily/issues/2)--2026-04-15
 - [2026-03-01日报](https://github.com/DanieRayy/juya-ai-daily/issues/1)--2026-04-15
