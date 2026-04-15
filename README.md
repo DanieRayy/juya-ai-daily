@@ -9,7 +9,7 @@
 | Platform | Link |
 | :--- | :--- |
 | RSS Feed | [Subscribe](https://DanieRayy.github.io/juya-ai-daily/rss.xml) |
-| Markdown 备份 | [BACKUP](https://github.com/DanieRayy/juya-ai-daily/tree/main/BACKUP) |
+| Markdown 备份 | [BACKUP](https://github.com/DanieRayy/juya-ai-daily/tree/master/BACKUP) |
 | GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
 | 第三方多功能阅读器（@ViggoZ 制作） | [juya-daily](https://viggoz.github.io/juya-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
