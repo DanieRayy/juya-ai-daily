@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://DanieRayy.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://DanieRayy.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://DanieRayy.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://DanieRayy.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 16 Apr 2026 03:36:19 +0000</lastBuildDate><itunes:image href="https://DanieRayy.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://DanieRayy.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://DanieRayy.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>AI 早报 2026-04-144</title><link>https://DanieRayy.github.io/juya-ai-daily/issue-5/</link><description>AI 早报 2026-04-144 概览 模型发布 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 ↗ #2 MiniMax M2.7开源发布 ↗ #5 阿里Wan2.7-Video登顶Video-to-Video Arena ↗ #15 GLM-5.1代码能力引关注：自主创建20+调试工具 ↗ #12 开发生态 Claude Code发布新UI与多代理协作功能 ↗ #47 苹果AI意外护城河：AI落后者可能最终获胜 ↗ #71 产品应用 Gemma 4 31B量化模型登顶Hugging FaceTrending第一 ↗ #33 全球首个GUI智能体模型取得13项SOTA性能 ↗ #35 Vercel CEO暗示IPO意向 AI代理驱动收入激增 ↗ #43 Kepler部署40颗…</description><content:encoded><![CDATA[<h1>AI 早报 2026-04-144</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://DanieRayy.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://DanieRayy.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://DanieRayy.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://DanieRayy.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 16 Apr 2026 03:53:33 +0000</lastBuildDate><itunes:image href="https://DanieRayy.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://DanieRayy.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://DanieRayy.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>AI 早报 2026-04-144</title><link>https://DanieRayy.github.io/juya-ai-daily/issue-5/</link><description>AI 早报 2026-04-144 概览 模型发布 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 ↗ #2 MiniMax M2.7开源发布 ↗ #5 阿里Wan2.7-Video登顶Video-to-Video Arena ↗ #15 GLM-5.1代码能力引关注：自主创建20+调试工具 ↗ #12 开发生态 Claude Code发布新UI与多代理协作功能 ↗ #47 苹果AI意外护城河：AI落后者可能最终获胜 ↗ #71 产品应用 Gemma 4 31B量化模型登顶Hugging FaceTrending第一 ↗ #33 全球首个GUI智能体模型取得13项SOTA性能 ↗ #35 Vercel CEO暗示IPO意向 AI代理驱动收入激增 ↗ #43 Kepler部署40颗…</description><content:encoded><![CDATA[<h1>AI 早报 2026-04-144</h1>
 <h2>概览</h2>
 <h3>模型发布</h3>
 <ul>
@@ -204,7 +204,7 @@
 <li><a href="https://news.ycombinator.com/item?id=47750234">https://news.ycombinator.com/item?id=47750234</a></li>
 </ul>
 <hr>
-]]></content:encoded><guid isPermaLink="false">https://github.com/DanieRayy/juya-ai-daily/issues/5</guid><pubDate>Wed, 15 Apr 2026 17:20:35 +0000</pubDate></item><item><title>AI 早报 2026-04-13</title><link>https://DanieRayy.github.io/juya-ai-daily/issue-4/</link><description>AI 早报 2026-04-13 概览 模型发布 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 ↗ #2 MiniMax M2.7开源发布 ↗ #5 行业动态 NUS复旦清华联合发布大模型Latent Space综述 ↗ #37 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 #2 Gemini 3.1 Flash Live在Sierra平台的实时语音代理基准测试中排名第一，展示了Google在语音AI领域的技术实力。 Google DeepMind宣布Gemini 3.1 Flash Live在Sierra平台的τ-Voice Leaderboard实时语音代理基准测试中排名第一。该模型具备思考能力，适合构建语音代理应用。Sierra是语音代理领…</description><content:encoded><![CDATA[<h1>AI 早报 2026-04-13</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/DanieRayy/juya-ai-daily/issues/5</guid><pubDate>Wed, 15 Apr 2026 17:20:35 +0000</pubDate></item><item><title>AI 早报 2026-04-13</title><link>https://DanieRayy.github.io/juya-ai-daily/issue-4/</link><description>AI 早报 2026-04-13 概览 模型发布 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 ↗ #2 MiniMax M2.7开源发布 ↗ #5 行业动态 Gemma 4 引发企业边缘AI安全治理新挑战 ↗ #81 NUS复旦清华联合发布大模型Latent Space综述 ↗ #37 Gemini 3.1 Flash Live登顶τ-Voice语音代理基准测试 #2 Gemini 3.1 Flash Live在Sierra平台的实时语音代理基准测试中排名第一，展示了Google在语音AI领域的技术实力。 Google DeepMind宣布Gemini 3.1 Flash Live在Sierra平台的τ-Voice Leaderboard实时语音代理基准测试中排名第一。该模型…</description><content:encoded><![CDATA[<h1>AI 早报 2026-04-13</h1>
 <h2>概览</h2>
 <h3>模型发布</h3>
 <ul>
@@ -213,6 +213,7 @@
 </ul>
 <h3>行业动态</h3>
 <ul>
+<li>Gemma 4 引发企业边缘AI安全治理新挑战 <a href="https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/">↗</a> <code>#81</code></li>
 <li>NUS复旦清华联合发布大模型Latent Space综述 <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651027314&amp;idx=3&amp;sn=64e0a0804b6ef2ff0e43116dab2a456a">↗</a> <code>#37</code></li>
 </ul>
 <hr>
@@ -237,6 +238,18 @@
 <ul>
 <li><a href="https://x.com/MiniMax_AI/status/2043373798431588770">https://x.com/MiniMax_AI/status/2043373798431588770</a></li>
 <li><a href="https://www.modelscope.cn/models/MiniMax/MiniMax-M2.7">https://www.modelscope.cn/models/MiniMax/MiniMax-M2.7</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/">Gemma 4 引发企业边缘AI安全治理新挑战</a> <code>#81</code></h2>
+<blockquote>
+<p>Google的Gemma 4模型可是在圈子里掀起了不小的波澜。这个开放权重模型可以直接在笔记本电脑上跑，完全绕过了传统的网络安全防护。企业安全部门现在面临一个大难题：怎么监控本地设备上的AI推理？这篇文章深入分析了边缘AI带来的安全挑战。</p>
+</blockquote>
+<p>Google发布的Gemma 4开放权重模型可直接在边缘设备运行，突破了传统的企业安全边界。安全分析师无法监控本地设备上的推理流量，工程师可以在不触发云防火墙的情况下处理敏感数据。文章分析了企业安全运营的盲点，以及Google AI Edge Gallery和LiteRT-LM工具对本地执行的加速作用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/DanieRayy/picx-images-hosting@main/imagehub/curate2/20260413/81/1776311414860-a02e8f3cd7ea.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/">https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/</a></li>
+<li><a href="https://deepmind.google/models/gemma/gemma-4/">https://deepmind.google/models/gemma/gemma-4/</a></li>
 </ul>
 <hr>
 <h2><a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651027314&amp;idx=3&amp;sn=64e0a0804b6ef2ff0e43116dab2a456a">NUS复旦清华联合发布大模型Latent Space综述</a> <code>#37</code></h2>
